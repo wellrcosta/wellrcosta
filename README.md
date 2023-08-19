@@ -28,8 +28,3 @@ I'm not just your average developer – I'm a coding enthusiast with a whopping 
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wellrcosta&layout=compact)
-
-## Badges
-
-- [![GitHub followers](https://img.shields.io/github/followers/wellrcosta?style=social)](https://github.com/wellrcosta)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-reis-38a382b9)
